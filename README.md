@@ -48,3 +48,4 @@ with zipfile.ZipFile(zip_bytes) as z:
     z.extractall(path=extract_path)
 
 print(f"✅  Repository '{owner}/{repo}' extracted to ./{repo}")
+List the advantages and disadvantages.
