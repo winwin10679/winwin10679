@@ -1,7 +1,7 @@
 
 
 
- on your GitHub profile.
+r GitHub profile.
 
 d:
 
