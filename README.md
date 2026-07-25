@@ -1,7 +1,7 @@
 
 
 
-r GitHub profile.
+
 
 d:
 
