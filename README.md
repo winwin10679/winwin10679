@@ -16,7 +16,7 @@
 -->
  requests
 port ase64
-import zipfile
+port zipfile
 
  
 
