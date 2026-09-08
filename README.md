@@ -20,7 +20,7 @@ uests
  
 
 # ----------------------------
-# 1️⃣  BASIC SETTINGS
+1️⃣  BASIC SETTINGS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
