@@ -20,7 +20,7 @@
  
 
 # ----------------------------
-1️⃣ ASIC SETTINGS
+1️⃣SIC SETTINGS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
