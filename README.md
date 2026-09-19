@@ -20,7 +20,7 @@
  
 
 # ----------------------------
-1️⃣SIC SETTIN
+1️⃣SIC SIN
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
