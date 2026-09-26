@@ -20,7 +20,7 @@
  
 
 # ----------------------------
-1️⃣SIC SN
+IC SN
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
