@@ -20,7 +20,7 @@
  
 
 # ----------------------------
-C SN
+CN
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
