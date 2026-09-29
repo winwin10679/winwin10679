@@ -21,7 +21,7 @@
 
 # ----------------------------
 CN
-# ----------------------------
+----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
 ranch = "main"          # or the default branch you need
