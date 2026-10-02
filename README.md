@@ -34,7 +34,7 @@ ers = {}  blic repo needs no auth
 # 2️⃣  FETCH ZIP ARCHIVE (quickest way to get the whole repo)
 # ----------------------------
 ziprl = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
-resp = requests.get(zip_url, headers=headers)
+esp = requests.get(zip_url, headers=headers)
 resp.raise_for_status()
 
 # Unpack the zip into a local folder
