@@ -22,7 +22,7 @@
 --------------------------
 
 ----------------------------
-r = NE          # e.g. "rvalds"
+r = NE          # .g. "rvalds"
 repo  = "REPO"           # e.g. "linux"
 ranch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
