@@ -35,7 +35,7 @@ s  ic repo needs no auth
 # ----------------------------
 ziprl = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 esp = requests.get(zip_url, headers=headers)
-resp.raise_for_status()
+resp.raise_for_statu()
 
 # Unpack the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
