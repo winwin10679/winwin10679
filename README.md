@@ -27,7 +27,7 @@ repo  = "REPO"           # e.g. "linux"
 ranch = "main"          # or the default branch you need
 # If the repo  private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-# headers = {"thorization": f"oken {token}"}
+# head = {"thorization": f"oken {token}"}
 s  iepo needs  auth
 
 # ----------------------------
