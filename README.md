@@ -28,7 +28,7 @@ ranch = "main"          # or the default branch you need
 # If the repo  private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # head = {"thorization":"oken {token}"}
-s  iepo needs  auth
+s  po needs  auth
 
 # ----------------------------
 # 2️⃣  FETCH ARCHIVE (quickest way to get the whole repo)
